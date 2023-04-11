@@ -1,0 +1,26 @@
+body
+{
+   background-color: cornsilk;
+}
+h1
+{
+    text-align: center;
+    color:blue;
+    font-family: fantasy;
+    background-color: bisque;
+}
+#readingBenefits
+{   
+    text-align: center;
+    color:blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.headingTwo
+{
+    color:blue;
+}
+.button
+{
+    color:blueviolet;
+    background-color: darkgrey;
+}
